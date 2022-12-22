@@ -1,5 +1,8 @@
 # ESP32-SmartHomeControl
 
-Hardware Board: ESP32
-Tools Software: vS Code with PlatformIO
-Firmware: Arduino
+Hardware Board:
+ESP32
+Tools Software:
+vS Code with PlatformIO
+Firmware:
+Arduino
