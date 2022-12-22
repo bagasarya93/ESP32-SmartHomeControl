@@ -4,7 +4,7 @@ Hardware Board:
 ESP32
 
 Tools Software:
-vS Code with PlatformIO
+VSCode with PlatformIO
 
 Firmware:
 Arduino
