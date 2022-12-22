@@ -8,3 +8,5 @@ VSCode with PlatformIO
 
 Firmware:
 Arduino
+
+File Program > src/main.cpp
